@@ -5,5 +5,5 @@ menuicon.addEventListener("click",function(){
     sidenav.style.right=0
 })
 closenav.addEventListener("click",function(){
-    sidenav.style.rigth= "-50%"
+    sidenav.style.right= "-50%"
 })
